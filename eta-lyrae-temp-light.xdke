@@ -1,0 +1,84 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".env": {
+        "previousModTime": 1456611237000,
+        "modified": 1456611237000,
+        "seen": true,
+        "name": ".env"
+      },
+      "README.md": {
+        "previousModTime": 1456611905000,
+        "modified": 1456611905000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "eta-lyrae-temp-light.xdk": {
+        "previousModTime": 1456461235000,
+        "modified": 1456461235000,
+        "seen": true,
+        "name": "eta-lyrae-temp-light.xdk"
+      },
+      "eta-lyrae-temp-light.xdke": {
+        "previousModTime": 1456611271000,
+        "modified": 1456611271000,
+        "seen": true,
+        "name": "eta-lyrae-temp-light.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1456461235000,
+        "modified": 1456461235000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1456611585000,
+        "modified": 1456611585000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1456610763000,
+        "modified": 1456610763000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1456461235000,
+        "modified": 1456461235000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      ".gitignore": {
+        "previousModTime": 1456611863000,
+        "modified": 1456611863000,
+        "seen": true,
+        "name": ".gitignore"
+      }
+    },
+    "boardFileStatus": {
+      "README.md": {
+        "previousModTime": 1464395174113
+      },
+      "icon.png": {
+        "previousModTime": 1464395174113
+      },
+      "main.js": {
+        "previousModTime": 1464395174113
+      },
+      "package.json": {
+        "previousModTime": 1464395174113
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1464395174113
+      }
+    }
+  }
+}
